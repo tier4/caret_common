@@ -11,6 +11,7 @@
     "Timeseries",
     "tracepoint",
     "tracepoints",
+    "tracetools",
     "varpass"
   ]
 }
